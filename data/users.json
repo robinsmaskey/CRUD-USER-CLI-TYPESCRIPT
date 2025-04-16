@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1744735368034",
+    "username": "Robins Maskey",
+    "createdAt": "2025-04-15T16:42:48.034Z"
+  },
+  {
+    "id": "1744735387422",
+    "username": "Super User",
+    "createdAt": "2025-04-15T16:43:07.422Z"
+  },
+  {
+    "id": "1744735400213",
+    "username": "SoftwareDev",
+    "createdAt": "2025-04-15T16:43:20.213Z",
+    "updatedAt": "2025-04-15T16:51:42.946Z"
+  },
+  {
+    "id": "1744735686129",
+    "username": "Hello World",
+    "createdAt": "2025-04-15T16:48:06.129Z"
+  },
+  {
+    "id": "1744735702304",
+    "username": "Test Super User",
+    "createdAt": "2025-04-15T16:48:22.304Z"
+  },
+  {
+    "id": "1744735717211",
+    "username": "Create Super User",
+    "createdAt": "2025-04-15T16:48:37.211Z"
+  },
+  {
+    "id": "1744735730345",
+    "username": "NodejsDev",
+    "createdAt": "2025-04-15T16:48:50.345Z",
+    "updatedAt": "2025-04-15T16:53:37.079Z"
+  },
+  {
+    "id": "1744735740747",
+    "username": "TypeScript",
+    "createdAt": "2025-04-15T16:49:00.747Z"
+  },
+  {
+    "id": "1744735752004",
+    "username": "JavaScript Developer",
+    "createdAt": "2025-04-15T16:49:12.004Z"
+  },
+  {
+    "id": "1744735940401",
+    "username": "ABC User",
+    "createdAt": "2025-04-15T16:52:20.401Z"
+  }
+]

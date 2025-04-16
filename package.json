@@ -1,0 +1,26 @@
+{
+  "name": "crud-user-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "create": "npm run dev -- create",
+    "read": "npm run dev -- read",
+    "update": "npm run dev -- update",
+    "delete": "npm run dev -- delete",
+    "list": "npm run dev -- list",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
+
