@@ -9,4 +9,5 @@ export function handleCreate(args: string[]): void {
   const newUser = createUser(username);
   console.log(`User "${newUser.username}" created successfully!`);
   displayUserDetails(newUser);
+  console.log('Test for PR');
 }
